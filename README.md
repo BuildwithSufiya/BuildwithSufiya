@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sufiya! 👋
 
-<!--
-**BuildwithSufiya/BuildwithSufiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Software Developer 💻
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science graduate passionate about programming, Artificial Intelligence, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 🌱 Learning Python, C, Java, and Web Development.
+- 🤖 Exploring Artificial Intelligence.
+- 💡 Interested in building useful real-world projects.
+- 🎯 Working towards becoming a skilled software developer.
+
+### 🛠️ Technologies I'm Learning
+- Python
+- C
+- Java
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+### 🎯 My Goals
+- Become a professional software developer.
+- Build real-world projects.
+- Learn AI and emerging technologies.
+- Become an entrepreneur.
+
+### 📫 Connect With Me
+- GitHub: [@BuildwithSufiya](https://github.com/BuildwithSufiya)
+- LinkedIn: [Sufiya Shaik](https://www.linkedin.com/in/sufiya-shaik-391350356/)
